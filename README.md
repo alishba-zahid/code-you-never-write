@@ -1,4 +1,4 @@
-# Assignment 7 — Code You Never Write
+# Code You Never Write
 
 **Student Name:** Alishba Zahid  
 **Course:** Panaversity Agent Factory  
